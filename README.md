@@ -60,11 +60,13 @@ Note : origin--> contains url to your github repo
 mian --> This is your branch name
 
 To push you changes forcefully
+
 ```
 git push origin main -f
 ```
 
 To pull your chnages from github repo
+
 ```
 git pull origin main
 ```
