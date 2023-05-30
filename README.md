@@ -13,6 +13,7 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+<<<<<<< HEAD
 
 ### Git Commmands
 
@@ -71,3 +72,10 @@ To pull your chnages from github repo
 git pull origin main
 ```
 
+=======
+### Step 3 - Download your dataset from here
+'''https://raw.githubusercontent.com/avnyadav/sensor-fault-detection/main/aps_failure_training
+_set1.csv'''
+
+This file is updated by Jaki in github website
+>>>>>>> 79d99e74417ac50875fa0f01f8474d2f533d2698
