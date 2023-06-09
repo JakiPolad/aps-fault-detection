@@ -18,4 +18,4 @@ PyYAML
 numpy
 scikit-learn
 apache-airflow
--e .   #HYPHEN-E-DOT ke ke bina apna setup.py file trigger nahi ho sakta isliye hame ye likhna compulsory he
+-e .

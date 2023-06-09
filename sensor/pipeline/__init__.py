@@ -1,0 +1,1 @@
+#This folder we are going to use for INPUT and OUTPUT Structure.
